@@ -1,0 +1,4 @@
+# Project dependencies for PDF Reader & Search Engine
+# Professionally maintained by Soft Game Studio
+
+PyMuPDF==1.25.1
