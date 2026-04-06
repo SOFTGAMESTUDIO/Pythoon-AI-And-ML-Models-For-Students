@@ -1,0 +1,2 @@
+This is a simple text. This text is for testing the Text Analyzer project.
+It removes stopwords and counts word frequency.

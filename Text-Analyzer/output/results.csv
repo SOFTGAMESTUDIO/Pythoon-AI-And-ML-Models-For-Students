@@ -1,0 +1,13 @@
+word,lemma,pos
+simple,simple,ADJ
+text,text,NOUN
+text,text,NOUN
+testing,test,VERB
+text,text,NOUN
+analyzer,analyzer,NOUN
+project,project,NOUN
+removes,remove,VERB
+stopwords,stopword,NOUN
+counts,count,VERB
+word,word,NOUN
+frequency,frequency,NOUN
