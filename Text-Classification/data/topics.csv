@@ -1,0 +1,1733 @@
+text,label
+"Stock market is rising",0
+"New AI technology launched",1
+"Football match tonight",2
+"Cricket world cup update",2
+"Startup funding news",1
+"Investment strategies",0
+"Stock indices hit all-time high",0
+"Machine learning breakthrough announced",1
+"Basketball playoffs start tomorrow",2
+"IPO market sees record activity",0
+"Quantum computing advances",1
+"Tennis Grand Slam finals",2
+"Federal reserve raises interest rates",0
+"Cybersecurity threats increase",1
+"World cup qualifiers today",2
+"Bitcoin price volatility",0
+"New smartphone release",1
+"Olympic games opening ceremony",2
+"Real estate market cooling",0
+"5G network expansion",1
+"Super bowl predictions",2
+"Corporate earnings beat estimates",0
+"SpaceX launches new rocket",1
+"Formula 1 race results",2
+"Inflation concerns grow",0
+"Blockchain for supply chain",1
+"UFC championship fight",2
+"Retail sales drop",0
+"Self-driving car updates",1
+"Golf tournament leaderboard",2
+"Housing bubble warning",0
+"OpenAI releases new model",1
+"Wrestlemania main event",2
+"Gold prices surge",0
+"Virtual reality headset reviews",1
+"NBA draft picks",2
+"Stock buyback programs increase",0
+"Tesla autonomous driving update",1
+"Marathon world record broken",2
+"Bond yields decline",0
+"Google I/O keynote highlights",1
+"World chess championship",2
+"Currency fluctuations impact trade",0
+"Apple Vision Pro new features",1
+"Tour de France stage winner",2
+"Hedge fund performance Q3",0
+"Microsoft Copilot integration",1
+"UEFA champions league final",2
+"Credit default swaps explained",0
+"Amazon robotics in warehouses",1
+"Badminton world championship",2
+"Mortgage rates forecast",0
+"Meta's new social platform",1
+"Boxing heavyweight title",2
+"Dividend stocks to watch",0
+"Nvidia GPU demand soars",1
+"Table tennis world cup",2
+"Commodity prices rally",0
+"Spotify AI playlists",1
+"Rugby world cup fixtures",2
+"401k contribution limits increase",0
+"Netflix gaming expansion",1
+"Volleyball nations league",2
+"REIT performance analysis",0
+"Uber flying taxis prototype",1
+"Snowboarding X Games",2
+"Tax reforms proposed",0
+"Intel foundry business update",1
+"Figure skating championships",2
+"Emerging market debt",0
+"AMD vs Nvidia benchmark",1
+"Baseball world series",2
+"Quantitative easing tapering",0
+"TikTok AI filters",1
+"Hockey stanley cup finals",2
+"Private equity deals surge",0
+"Zoom AI companion launch",1
+"Esports world championship",2
+"Consumer spending slows",0
+"Palantir AI platforms",1
+"Surfing world tour",2
+"Options trading strategies",0
+"Salesforce Einstein GPT",1
+"WWE royal rumble",2
+"Bank stress test results",0
+"Adobe Firefly updates",1
+"Cricket IPL auction",2
+"Yield curve inversion",0
+"Snapchat AR glasses",1
+"MMA fight night",2
+"Angel investing trends",0
+"Reddit IPO filing",1
+"Karate world championships",2
+"Financial literacy campaigns",0
+"Discord AI features",1
+"Padel tennis growth",2
+"Leveraged buyouts rise",0
+"LinkedIn AI job match",1
+"Motorsport endurance race",2
+"Quant fund performance",0
+"Twitch streaming AI tools",1
+"Ski jumping world cup",2
+"Carbon credit trading",0
+"Stripe payment AI",1
+"Roller derby finals",2
+"High frequency trading",0
+"Shopify AI assistants",1
+"Fencing world cup",2
+"Pension fund allocations",0
+"Uipath automation AI",1
+"Lacrosse championship",2
+"Venture capital dry powder",0
+"Coinbase staking rewards",1
+"Handball world cup",2
+"Stock split announcements",0
+"ZoomInfo AI insights",1
+"Bobsleigh world cup",2
+"Derivatives market volume",0
+"DocuSign AI agreements",1
+"Archery world cup",2
+"Foreign direct investment",0
+"Salesloft AI sales",1
+"Cycling velodrome records",2
+"Insider trading cases",0
+"Monday.com AI boards",1
+"Softball world cup",2
+"Exchange traded funds",0
+"Asana AI workflows",1
+"Kabaddi world cup",2
+"Rating agency upgrades",0
+"Dropbox AI search",1
+"Netball world cup",2
+"Wholesale inflation data",0
+"HubSpot AI marketing",1
+"Squash world championship",2
+"Stock buyback tax",0
+"Atlassian AI teammates",1
+"Billiards world championship",2
+"GDP growth revised up",0
+"Canva AI design",1
+"Bowling world cup",2
+"Initial jobless claims",0
+"Notion AI writing",1
+"Darts world championship",2
+"Credit rating downgrade",0
+"Slack AI summaries",1
+"Snooker world championship",2
+"Margin call explained",0
+"Workday AI recruiting",1
+"Curling world championship",2
+"Reverse mortgage rates",0
+"Okta AI identity",1
+"Orienteering world cup",2
+"Mutual fund outflows",0
+"Cloudflare AI security",1
+"Triathlon world championship",2
+"Initial public offering pipeline",0
+"Datadog AI monitoring",1
+"Rowing world cup",2
+"Consumer sentiment index",0
+"MongoDB AI features",1
+"Sailing world cup",2
+"Fiscal deficit targets",0
+"Confluent AI streaming",1
+"Canoeing world cup",2
+"Quantitative analysis tools",0
+"Snowflake AI data",1
+"Shooting world cup",2
+"Stagflation risks",0
+"Elastic AI search",1
+"Taekwondo world championship",2
+"Capital gains tax",0
+"Splunk AI analytics",1
+"Wrestling world cup",2
+"Zero coupon bonds",0
+"New Relic AI ops",1
+"Judo world championship",2
+"Currency swap lines",0
+"GitLab AI devops",1
+"Boxing world cup",2
+"Foreign exchange reserves",0
+"GitHub Copilot updates",1
+"Muay Thai championship",2
+"Systemic risk monitoring",0
+"Replit AI coding",1
+"Kickboxing world cup",2
+"Stock market circuit breakers",0
+"Vercel AI deployment",1
+"Sambo world championship",2
+"Treasury yield curve",0
+"Netlify AI features",1
+"Wushu world cup",2
+"Bank liquidity coverage",0
+"Render AI cloud",1
+"Capoeira championship",2
+"Regulatory capital requirements",0
+"Fly.io AI edge",1
+"Sumo world cup",2
+"Dividend reinvestment plans",0
+"Deno AI runtime",1
+"Polo world championship",2
+"Earnings per share growth",0
+"Bun AI toolkit",1
+"Equestrian world cup",2
+"Price to book ratio",0
+"Supabase AI database",1
+"Modern pentathlon",2
+"Return on equity analysis",0
+"Appwrite AI backend",1
+"Futsal world cup",2
+"Debt to equity ratio",0
+"PocketBase AI",1
+"Beach soccer world cup",2
+"Free cash flow yield",0
+"Directus AI",1
+"Indoor hockey world cup",2
+"Enterprise value multiples",0
+"Strapi AI",1
+"Floorball world cup",2
+"Gross margin expansion",0
+"Payload AI",1
+"Bandy world cup",2
+"Operating leverage",0
+"KeystoneJS AI",1
+"Ringette world cup",2
+"Working capital management",0
+"Ghost CMS AI",1
+"Roller hockey world cup",2
+"Asset turnover ratio",0
+"Contentful AI",1
+"Ice stock world cup",2
+"Quick ratio analysis",0
+"Prismic AI",1
+"Underwater hockey",2
+"Cash conversion cycle",0
+"Sanity AI",1
+"Skateboarding world cup",2
+"Net debt calculation",0
+"Builder.io AI",1
+"Parkour world cup",2
+"Levered free cash flow",0
+"Framer AI",1
+"Freestyle football",2
+"Unlevered free cash flow",0
+"Webflow AI",1
+"Breakdancing world cup",2
+"Beta coefficient stock",0
+"Wix AI",1
+"Rock climbing world cup",2
+"Sharpe ratio investing",0
+"Squarespace AI",1
+"Calisthenics world cup",2
+"Alpha generation strategies",0
+"Weebly AI",1
+"Gymnastics world championship",2
+"Treynor ratio",0
+"WordPress AI plugins",1
+"Cheerleading world cup",2
+"Jensen's alpha",0
+"Drupal AI",1
+"Dance sport world cup",2
+"R squared in finance",0
+"Magento AI",1
+"Trampoline world cup",2
+"Standard deviation risk",0
+"Shopware AI",1
+"Acrobatic gymnastics",2
+"Value at risk models",0
+"BigCommerce AI",1
+"Aerobic gymnastics",2
+"Conditional VaR",0
+"WooCommerce AI",1
+"Rhythmic gymnastics",2
+"Stress testing banks",0
+"OpenCart AI",1
+"Powerlifting world cup",2
+"Scenario analysis",0
+"PrestaShop AI",1
+"Strongman world cup",2
+"Monte Carlo simulation",0
+"Medusa JS AI",1
+"Bodybuilding world cup",2
+"Backtesting strategies",0
+"Saleor AI",1
+"Crossfit world cup",2
+"Forward testing trading",0
+"Vendure AI",1
+"Weightlifting world cup",2
+"Paper trading accounts",0
+"Sylius AI",1
+"Arm wrestling world cup",2
+"Algorithmic trading",0
+"Bagisto AI",1
+"Tug of war world cup",2
+"High frequency strategies",0
+"Aimeos AI",1
+"Paddleboarding world cup",2
+"Quantamental investing",0
+"Thirty Bees AI",1
+"Kayaking world cup",2
+"Factor investing models",0
+"CubeCart AI",1
+"Rafting world cup",2
+"Smart beta ETFs",0
+"Zen Cart AI",1
+"Canyoning world cup",2
+"Passive investing growth",0
+"AbanteCart AI",1
+"Paragliding world cup",2
+"Active share measure",0
+"OpenCart AI",1
+"Hang gliding world cup",2
+"Tracking error funds",0
+"PrestaShop AI",1
+"Wingsuit flying cup",2
+"Information ratio",0
+"WooCommerce AI",1
+"Skydiving world cup",2
+"Sortino ratio risk",0
+"BigCommerce AI",1
+"Base jumping cup",2
+"Calmar ratio",0
+"Shopware AI",1
+"Bungee jumping cup",2
+"Maximum drawdown",0
+"Magento AI",1
+"Zorbing world cup",2
+"Ulcer index risk",0
+"Drupal AI",1
+"Coasteering cup",2
+"Omega ratio",0
+"WordPress AI",1
+"Abseiling world cup",2
+"Kappa ratio",0
+"Wix AI",1
+"Caving world cup",2
+"Pain index finance",0
+"Squarespace AI",1
+"Mountaineering cup",2
+"Martin ratio",0
+"Weebly AI",1
+"Ski mountaineering",2
+"Burke ratio",0
+"Framer AI",1
+"Snowkiting cup",2
+"Stutzer index",0
+"Builder.io AI",1
+"Kiteboarding cup",2
+"Bernardo ratio",0
+"Sanity AI",1
+"Windsurfing cup",2
+"Rachev ratio",0
+"Prismic AI",1
+"Surfski world cup",2
+"Modified Sharpe",0
+"Contentful AI",1
+"SUP world cup",2
+"Conditional Sharpe",0
+"Ghost CMS AI",1
+"Towboarding cup",2
+"Adjusted Sharpe",0
+"KeystoneJS AI",1
+"Wakeboarding cup",2
+"Double Sharpe ratio",0
+"Payload AI",1
+"Wakeskating cup",2
+"Appraisal ratio",0
+"Strapi AI",1
+"Barefoot water ski",2
+"M squared measure",0
+"Directus AI",1
+"Show skiing cup",2
+"Treynor Black ratio",0
+"PocketBase AI",1
+"Ski jumping cup",2
+"Jensen measure",0
+"Supabase AI",1
+"Snowboard cross cup",2
+"Modigliani risk",0
+"Appwrite AI",1
+"Freestyle skiing",2
+"Sortino VaR",0
+"Bun AI",1
+"Mogul skiing cup",2
+"Conditional Drawdown",0
+"Deno AI",1
+"Aerial skiing cup",2
+"Risk adjusted return",0
+"Fly.io AI",1
+"Biathlon world cup",2
+"Capital asset pricing",0
+"Render AI",1
+"Cross country skiing",2
+"Arbitrage pricing",0
+"Netlify AI",1
+"Speed skating cup",2
+"Fama French model",0
+"Vercel AI",1
+"Short track speed",2
+"Carhart four factor",0
+"Replit AI",1
+"Figure skating cup",2
+"Novy Marx factor",0
+"GitHub Copilot",1
+"Synchronized skating",2
+"Q factor model",0
+"GitLab AI",1
+"Ice dancing cup",2
+"AQR factors",0
+"New Relic AI",1
+"Curling world cup",2
+"Barra risk model",0
+"Splunk AI",1
+"Bobsleigh world cup",2
+"Northfield model",0
+"Elastic AI",1
+"Skeleton world cup",2
+"Bloomberg risk",0
+"Snowflake AI",1
+"Luge world cup",2
+"MSCI risk metrics",0
+"Confluent AI",1
+"Skibobbing cup",2
+"Black Litterman",0
+"MongoDB AI",1
+"Speed skiing cup",2
+"Residual income valuation",0
+"Datadog AI",1
+"Grass skiing cup",2
+"Economic value added",0
+"Cloudflare AI",1
+"Roller skiing cup",2
+"Market value added",0
+"Okta AI",1
+"Telemark skiing",2
+"Cash value added",0
+"Workday AI",1
+"Freeride skiing",2
+"Shareholder yield",0
+"Slack AI",1
+"Backcountry skiing",2
+"Earnings yield",0
+"Notion AI",1
+"Alpine touring cup",2
+"Sales yield ratio",0
+"Canva AI",1
+"Snowshoeing cup",2
+"Buyback yield",0
+"Atlassian AI",1
+"Dog sledding cup",2
+"Dividend yield",0
+"HubSpot AI",1
+"Skijoring world cup",2
+"Free cash flow yield",0
+"Dropbox AI",1
+"Snow polo world cup",2
+"PEG ratio",0
+"Asana AI",1
+"Ice climbing cup",2
+"EV EBITDA multiple",0
+"Monday.com AI",1
+"Mushing world cup",2
+"Price sales ratio",0
+"Salesloft AI",1
+"Snow rafting cup",2
+"Price cash flow",0
+"DocuSign AI",1
+"Ice sailing cup",2
+"Price book value",0
+"ZoomInfo AI",1
+"Snowmobile racing",2
+"Tobin Q ratio",0
+"Coinbase AI",1
+"Ice karting cup",2
+"Enterprise value",0
+"Uipath AI",1
+"Ice cross downhill",2
+"Market capitalization",0
+"Shopify AI",1
+"Bandy world cup",2
+"Net tangible assets",0
+"Stripe AI",1
+"Rink bandy cup",2
+"Intrinsic value",0
+"Twitch AI",1
+"Ice stock sport",2
+"Liquidation value",0
+"LinkedIn AI",1
+"Ringette world cup",2
+"Replacement value",0
+"Discord AI",1
+"Unicycle hockey",2
+"Book value per share",0
+"Reddit AI",1
+"Quadball world cup",2
+"Tangible book value",0
+"Snapchat AI",1
+"Bossaball cup",2
+"Net asset value",0
+"Adobe AI",1
+"Footbag net cup",2
+"Embedded value",0
+"Salesforce AI",1
+"Fistball cup",2
+"Appraised value",0
+"Palantir AI",1
+"Korfball world cup",2
+"Fair market value",0
+"Zoom AI",1
+"Racquetball cup",2
+"Liquidity value",0
+"TikTok AI",1
+"Paddle tennis cup",2
+"Going concern value",0
+"Intel AI",1
+"Padel world cup",2
+"Salvage value",0
+"AMD AI",1
+"Racketlon cup",2
+"Breakup value",0
+"Nvidia AI",1
+"Rush padel cup",2
+"Option adjusted spread",0
+"Tesla AI",1
+"Platform tennis cup",2
+"Credit default swap",0
+"Google AI",1
+"Wallyball cup",2
+"Total return swap",0
+"Apple AI",1
+"Biribol cup",2
+"Interest rate swap",0
+"Meta AI",1
+"Indoor soccer cup",2
+"Currency swap",0
+"Amazon AI",1
+"Powerchair football",2
+"Equity swap",0
+"Microsoft AI",1
+"Amputee football",2
+"Basis swap",0
+"OpenAI AI",1
+"Deaf football cup",2
+"Variance swap",0
+"SpaceX AI",1
+"Blind football cup",2
+"Volatility swap",0
+"Uber AI",1
+"Cerebral palsy football",2
+"Correlation swap",0
+"Lyft AI",1
+"Freestyle football cup",2
+"Dividend swap",0
+"Netflix AI",1
+"Street football cup",2
+"Inflation swap",0
+"Spotify AI",1
+"Swamp soccer cup",2
+"Commodity swap",0
+"Disney AI",1
+"Zorb football cup",2
+"Energy swap",0
+"Warner AI",1
+"Paralympic football",2
+"Freight swap",0
+"Sony AI",1
+"Unicycle basketball",2
+"Emission swap",0
+"Nintendo AI",1
+"Wheelchair basketball",2
+"Carbon swap",0
+"Tencent AI",1
+"Deaf basketball cup",2
+"Weather derivative",0
+"Alibaba AI",1
+"3x3 basketball cup",2
+"Catastrophe bond",0
+"Baidu AI",1
+"Slamball cup",2
+"Credit linked note",0
+"Xiaomi AI",1
+"Street basketball",2
+"Equity linked note",0
+"Huawei AI",1
+"Netball world cup",2
+"Commodity linked note",0
+"Samsung AI",1
+"Korfball cup",2
+"FX linked note",0
+"LG AI",1
+"Handball world cup",2
+"Interest linked note",0
+"Panasonic AI",1
+"Floorball world cup",2
+"Inflation linked bond",0
+"Toshiba AI",1
+"Bandy world cup",2
+"Zero coupon bond",0
+"Hitachi AI",1
+"Ringette world cup",2
+"Floating rate note",0
+"Fujitsu AI",1
+"Rink bandy cup",2
+"Perpetual bond",0
+"NEC AI",1
+"Ice stock sport",2
+"Convertible bond",0
+"Mitsubishi AI",1
+"Unicycle hockey",2
+"Exchangeable bond",0
+"SoftBank AI",1
+"Quadball cup",2
+"Step up bond",0
+"Rakuten AI",1
+"Bossaball cup",2
+"Step down bond",0
+"Mercari AI",1
+"Footbag net cup",2
+"Capital guaranteed bond",0
+"Line AI",1
+"Fistball cup",2
+"Structured product",0
+"Yahoo Japan AI",1
+"Korfball cup",2
+"Reverse convertible",0
+"PayPay AI",1
+"Racquetball cup",2
+"Airbag certificate",0
+"Recruit AI",1
+"Paddle tennis cup",2
+"Discount certificate",0
+"Nomura AI",1
+"Padel world cup",2
+"Bonus certificate",0
+"Daiwa AI",1
+"Racketlon cup",2
+"Warrant",0
+"Mizuho AI",1
+"Rush padel cup",2
+"Option",0
+"SMBC AI",1
+"Platform tennis cup",2
+"Futures contract",0
+"BNP Paribas AI",1
+"Wallyball cup",2
+"Forward contract",0
+"Societe Generale AI",1
+"Biribol cup",2
+"Swap",0
+"Credit Agricole AI",1
+"Indoor soccer cup",2
+"Swaption",0
+"Deutsche Bank AI",1
+"Powerchair football",2
+"Cap",0
+"Goldman Sachs AI",1
+"Amputee football",2
+"Floor",0
+"Morgan Stanley AI",1
+"Deaf football cup",2
+"Collar",0
+"JPMorgan AI",1
+"Blind football cup",2
+"Barrier option",0
+"Citi AI",1
+"Cerebral palsy football",2
+"Asian option",0
+"Bank of America AI",1
+"Freestyle football cup",2
+"Lookback option",0
+"Wells Fargo AI",1
+"Street football cup",2
+"Bermudan option",0
+"UBS AI",1
+"Swamp soccer cup",2
+"Binary option",0
+"Credit Suisse AI",1
+"Zorb football cup",2
+"Rainbow option",0
+"HSBC AI",1
+"Paralympic football",2
+"Spread option",0
+"Barclays AI",1
+"Unicycle basketball",2
+"Quanto option",0
+"Standard Chartered AI",1
+"Wheelchair basketball",2
+"Composite option",0
+"BNY Mellon AI",1
+"Deaf basketball cup",2
+"Power option",0
+"State Street AI",1
+"3x3 basketball cup",2
+"Gap option",0
+"BlackRock AI",1
+"Slamball cup",2
+"Chooser option",0
+"Vanguard AI",1
+"Street basketball",2
+"Compound option",0
+"Fidelity AI",1
+"Netball cup",2
+"Installment option",0
+"PIMCO AI",1
+"Korfball cup",2
+"Shout option",0
+"Capital Group AI",1
+"Handball cup",2
+"Cliquet option",0
+"T Rowe Price AI",1
+"Floorball cup",2
+"Ladder option",0
+"Invesco AI",1
+"Bandy cup",2
+"Napoleon option",0
+"Franklin Templeton AI",1
+"Ringette cup",2
+"Everest option",0
+"Wellington AI",1
+"Rink bandy cup",2
+"Range accrual",0
+"Neuberger Berman AI",1
+"Ice stock sport",2
+"Snowball option",0
+"Ares Management AI",1
+"Unicycle hockey",2
+"Target redemption",0
+"KKR AI",1
+"Quadball cup",2
+"Phoenix option",0
+"Blackstone AI",1
+"Bossaball cup",2
+"Altiplano option",0
+"Carlyle AI",1
+"Footbag net cup",2
+"Twin win option",0
+"Apollo AI",1
+"Fistball cup",2
+"Express certificate",0
+"Brookfield AI",1
+"Korfball cup",2
+"Outperformance certificate",0
+"Oaktree AI",1
+"Racquetball cup",2
+"Twin win certificate",0
+"Baupost Group AI",1
+"Paddle tennis cup",2
+"Bonus certificate",0
+"Renaissance Tech AI",1
+"Padel world cup",2
+"Discount certificate",0
+"Two Sigma AI",1
+"Racketlon cup",2
+"Airbag certificate",0
+"DE Shaw AI",1
+"Rush padel cup",2
+"Reverse convertible",0
+"Citadel AI",1
+"Platform tennis cup",2
+"Worst of certificate",0
+"Millennium AI",1
+"Wallyball cup",2
+"Best of certificate",0
+"Point72 AI",1
+"Biribol cup",2
+"Basket certificate",0
+"Bridgewater AI",1
+"Indoor soccer cup",2
+"Rainbow certificate",0
+"Man Group AI",1
+"Powerchair football",2
+"Range certificate",0
+"Schonfeld AI",1
+"Amputee football",2
+"Conditional certificate",0
+"Squarepoint AI",1
+"Deaf football cup",2
+"Trigger certificate",0
+"XTX Markets AI",1
+"Blind football cup",2
+"Barrier reverse",0
+"Jump trading AI",1
+"Cerebral palsy football",2
+"Lookback certificate",0
+"Optiver AI",1
+"Freestyle football cup",2
+"Memory coupon",0
+"Susquehanna AI",1
+"Street football cup",2
+"Auto callable",0
+"Virtu AI",1
+"Swamp soccer cup",2
+"Snowball autocall",0
+"DRW AI",1
+"Zorb football cup",2
+"Phoenix autocall",0
+"IMC AI",1
+"Paralympic football",2
+"Target redemption auto",0
+"Flow Traders AI",1
+"Unicycle basketball",2
+"Express autocall",0
+"Tower Research AI",1
+"Wheelchair basketball",2
+"Altiplano autocall",0
+"Hudson River AI",1
+"Deaf basketball cup",2
+"Reverse snowball",0
+"GSA Capital AI",1
+"3x3 basketball cup",2
+"Barrier autocall",0
+"Radix AI",1
+"Slamball cup",2
+"Coupon autocall",0
+"Headlands Tech AI",1
+"Street basketball",2
+"Phoenix reverse",0
+"Teza Technologies AI",1
+"Netball cup",2
+"Snowball reverse",0
+"KCG AI",1
+"Korfball cup",2
+"Memory reverse",0
+"Getco AI",1
+"Handball cup",2
+"Auto reverse",0
+"Knight Capital AI",1
+"Floorball cup",2
+"Step down reverse",0
+"Tradebot AI",1
+"Bandy cup",2
+"Outperformance reverse",0
+"RSI AI",1
+"Ringette cup",2
+"Twin win reverse",0
+"Quantlab AI",1
+"Rink bandy cup",2
+"Express reverse",0
+"Sun Trading AI",1
+"Ice stock sport",2
+"Altiplano reverse",0
+"Chopper Trading AI",1
+"Unicycle hockey",2
+"Worst of reverse",0
+"Algo Trading Group",1
+"Quadball cup",2
+"Best of reverse",0
+"HRT AI",1
+"Bossaball cup",2
+"Rainbow reverse",0
+"Vatic Investments AI",1
+"Footbag net cup",2
+"Digital options",0
+"Maven Securities AI",1
+"Fistball cup",2
+"Vanilla option",0
+"AQR Capital AI",1
+"Korfball cup",2
+"Exotic option",0
+"Davidson Kempner AI",1
+"Racquetball cup",2
+"Binary option",0
+"Elliott Management AI",1
+"Paddle tennis cup",2
+"Contingent option",0
+"Third Point AI",1
+"Padel world cup",2
+"Corridor option",0
+"Pershing Square AI",1
+"Racketlon cup",2
+"Mountain range",0
+"Greenlight Capital AI",1
+"Rush padel cup",2
+"Himalaya option",0
+"Lone Pine AI",1
+"Platform tennis cup",2
+"Athena option",0
+"Tiger Global AI",1
+"Wallyball cup",2
+"Artemis option",0
+"Coatue AI",1
+"Biribol cup",2
+"Apollo option",0
+"D1 Capital AI",1
+"Indoor soccer cup",2
+"Mercury option",0
+"Viking Global AI",1
+"Powerchair football",2
+"Vesta option",0
+"Whale Rock AI",1
+"Amputee football",2
+"Juno option",0
+"Scopia Capital AI",1
+"Deaf football cup",2
+"Gemini option",0
+"Senator Investment AI",1
+"Blind football cup",2
+"Orion option",0
+"Soros Fund AI",1
+"Cerebral palsy football",2
+"Comet option",0
+"Caxton Associates AI",1
+"Freestyle football cup",2
+"Nova option",0
+"Moore Capital AI",1
+"Street football cup",2
+"Eclipse option",0
+"Tudor Investment AI",1
+"Swamp soccer cup",2
+"Solstice option",0
+"Brevan Howard AI",1
+"Zorb football cup",2
+"Equinox option",0
+"BlueCrest Capital AI",1
+"Paralympic football",2
+"Zenith option",0
+"LMR Partners AI",1
+"Unicycle basketball",2
+"Nadir option",0
+"Graham Capital AI",1
+"Wheelchair basketball",2
+"Apex option",0
+"Millennium Partners AI",1
+"Deaf basketball cup",2
+"Summit option",0
+"Paulson & Co AI",1
+"3x3 basketball cup",2
+"Valley option",0
+"Farallon Capital AI",1
+"Slamball cup",2
+"Peak option",0
+"York Capital AI",1
+"Street basketball",2
+"Trough option",0
+"Och Ziff AI",1
+"Netball cup",2
+"Ridge option",0
+"Centerbridge AI",1
+"Korfball cup",2
+"Plateau option",0
+"Silver Point AI",1
+"Handball cup",2
+"Cliff option",0
+"Anchorage Capital AI",1
+"Floorball cup",2
+"Gap option",0
+"Avenue Capital AI",1
+"Bandy cup",2
+"Spike option",0
+"Canyon Partners AI",1
+"Ringette cup",2
+"Dip option",0
+"Kramer Levin AI",1
+"Rink bandy cup",2
+"Bounce option",0
+"King Street AI",1
+"Ice stock sport",2
+"Reversal option",0
+"Marathon Asset AI",1
+"Unicycle hockey",2
+"Breakout option",0
+"Oaktree Capital AI",1
+"Quadball cup",2
+"Flag option",0
+"Angelo Gordon AI",1
+"Bossaball cup",2
+"Pennant option",0
+"Cerberus Capital AI",1
+"Footbag net cup",2
+"Wedge option",0
+"Apollo Global AI",1
+"Fistball cup",2
+"Triangle option",0
+"Blackstone Credit AI",1
+"Korfball cup",2
+"Rectangle option",0
+"KKR Credit AI",1
+"Racquetball cup",2
+"Channel option",0
+"Carlyle Credit AI",1
+"Paddle tennis cup",2
+"Head and shoulders",0
+"BlueMountain AI",1
+"Padel world cup",2
+"Double top option",0
+"Magnetar Capital AI",1
+"Racketlon cup",2
+"Double bottom option",0
+"Ellington Management AI",1
+"Rush padel cup",2
+"Rounding top option",0
+"Lime Rock Partners AI",1
+"Platform tennis cup",2
+"Rounding bottom",0
+"Ardian AI",1
+"Wallyball cup",2
+"V bottom option",0
+"TPG Capital AI",1
+"Biribol cup",2
+"V top option",0
+"Warburg Pincus AI",1
+"Indoor soccer cup",2
+"Cup and handle",0
+"Bain Capital AI",1
+"Powerchair football",2
+"Inverse cup",0
+"Advent International AI",1
+"Amputee football",2
+"Saucer option",0
+"Vista Equity AI",1
+"Deaf football cup",2
+"Bump option",0
+"Hellman Friedman AI",1
+"Blind football cup",2
+"Hook option",0
+"Genstar Capital AI",1
+"Cerebral palsy football",2
+"Loop option",0
+"Summit Partners AI",1
+"Freestyle football cup",2
+"Pivot option",0
+"TA Associates AI",1
+"Street football cup",2
+"Pin bar option",0
+"Francisco Partners AI",1
+"Swamp soccer cup",2
+"Engulfing option",0
+"Thoma Bravo AI",1
+"Zorb football cup",2
+"Harami option",0
+"Silver Lake AI",1
+"Paralympic football",2
+"Doji option",0
+"EQT Partners AI",1
+"Unicycle basketball",2
+"Morning star",0
+"Cinven AI",1
+"Wheelchair basketball",2
+"Evening star",0
+"Permira AI",1
+"Deaf basketball cup",2
+"Three white soldiers",0
+"CVC Capital AI",1
+"3x3 basketball cup",2
+"Three black crows",0
+"BC Partners AI",1
+"Slamball cup",2
+"Dark cloud cover",0
+"Apax Partners AI",1
+"Street basketball",2
+"Piercing pattern",0
+"Clayton Dubilier AI",1
+"Netball cup",2
+"Hanging man",0
+"Kohlberg Kravis AI",1
+"Korfball cup",2
+"Hammer candle",0
+"Brookfield Asset AI",1
+"Handball cup",2
+"Shooting star",0
+"Ontario Teachers AI",1
+"Floorball cup",2
+"Inverted hammer",0
+"CDPQ AI",1
+"Bandy cup",2
+"Spinning top",0
+"OMERS AI",1
+"Ringette cup",2
+"Marubozu candle",0
+"CPPIB AI",1
+"Rink bandy cup",2
+"Abandoned baby",0
+"GIC Singapore AI",1
+"Ice stock sport",2
+"Morning doji star",0
+"Temasek AI",1
+"Unicycle hockey",2
+"Evening doji star",0
+"Qatar Investment AI",1
+"Quadball cup",2
+"Three inside up",0
+"ADIA AI",1
+"Bossaball cup",2
+"Three inside down",0
+"PIF Saudi AI",1
+"Footbag net cup",2
+"Three stars in south",0
+"Mubadala AI",1
+"Fistball cup",2
+"Unique three river",0
+"Kuwait Investment AI",1
+"Korfball cup",2
+"Tasuki gap",0
+"KIC Korea AI",1
+"Racquetball cup",2
+"Side by side lines",0
+"NBIM Norway AI",1
+"Paddle tennis cup",2
+"Mat hold pattern",0
+"Alaska Permanent AI",1
+"Padel world cup",2
+"Rising three methods",0
+"Alberta Investment AI",1
+"Racketlon cup",2
+"Falling three methods",0
+"NZ Super Fund AI",1
+"Rush padel cup",2
+"Separating lines",0
+"Future Fund Aus AI",1
+"Platform tennis cup",2
+"Meeting lines",0
+"PGGM Netherlands AI",1
+"Wallyball cup",2
+"Belt hold line",0
+"APG Netherlands AI",1
+"Biribol cup",2
+"Upside tasuki gap",0
+"ATP Denmark AI",1
+"Indoor soccer cup",2
+"Downside tasuki gap",0
+"USS UK AI",1
+"Powerchair football",2
+"Window gap",0
+"OTPP Canada AI",1
+"Amputee football",2
+"Breakaway gap",0
+"IMCO Canada AI",1
+"Deaf football cup",2
+"Runaway gap",0
+"BCI Canada AI",1
+"Blind football cup",2
+"Exhaustion gap",0
+"CDPQ Infra AI",1
+"Cerebral palsy football",2
+"Island reversal",0
+"Oxford Properties AI",1
+"Freestyle football cup",2
+"Eve and adam",0
+"Ivanhoé Cambridge AI",1
+"Street football cup",2
+"Ladder bottom",0
+"QuadReal AI",1
+"Swamp soccer cup",2
+"Ladder top",0
+"CPPIB Credit AI",1
+"Zorb football cup",2
+"Staircase pattern",0
+"OMERS Infrastructure AI",1
+"Paralympic football",2
+"Staircase top",0
+"Ontario Power Gen AI",1
+"Unicycle basketball",2
+"Rooftop pattern",0
+"Sagard AI",1
+"Wheelchair basketball",2
+"Flat top pattern",0
+"Fonds FTQ AI",1
+"Deaf basketball cup",2
+"Flat bottom pattern",0
+"Caisse Depot AI",1
+"3x3 basketball cup",2
+"High wave pattern",0
+"Bpifrance AI",1
+"Slamball cup",2
+"Low wave pattern",0
+"CDC France AI",1
+"Street basketball",2
+"Long leg doji",0
+"EPF France AI",1
+"Netball cup",2
+"Rickshaw man doji",0
+"CNP Assurances AI",1
+"Korfball cup",2
+"Gravestone doji",0
+"Groupama AI",1
+"Handball cup",2
+"Dragonfly doji",0
+"Macif AI",1
+"Floorball cup",2
+"Four price doji",0
+"Maif AI",1
+"Bandy cup",2
+"Star pattern",0
+"MGEN AI",1
+"Ringette cup",2
+"Counterattack lines",0
+"Humanis AI",1
+"Rink bandy cup",2
+"Homing pigeon",0
+"Pro BTP AI",1
+"Ice stock sport",2
+"Ladder pattern",0
+"AG2R La Mondiale AI",1
+"Unicycle hockey",2
+"Thrusting pattern",0
+"Malakoff Humanis AI",1
+"Quadball cup",2
+"Stick sandwich",0
+"Klesia AI",1
+"Bossaball cup",2
+"Deliberation pattern",0
+"Aviva France AI",1
+"Footbag net cup",2
+"On neck pattern",0
+"Generali France AI",1
+"Fistball cup",2
+"In neck pattern",0
+"Allianz France AI",1
+"Korfball cup",2
+"Close lines",0
+"Swiss Life France AI",1
+"Racquetball cup",2
+"Concealing baby",0
+"AXA France AI",1
+"Paddle tennis cup",2
+"Tristar pattern",0
+"Credit Mutuel AI",1
+"Padel world cup",2
+"Advance block",0
+"BPCE AI",1
+"Racketlon cup",2
+"Deliberation candles",0
+"Societe Generale Assu AI",1
+"Rush padel cup",2
+"Breakaway pattern",0
+"La Banque Postale AI",1
+"Platform tennis cup",2
+"Closing price reversal",0
+"BNP Paribas Cardif AI",1
+"Wallyball cup",2
+"Opening price reversal",0
+"CNP Assurances AI",1
+"Biribol cup",2
+"Key reversal day",0
+"HSBC France AI",1
+"Indoor soccer cup",2
+"Exhaustion reversal",0
+"Barclays France AI",1
+"Powerchair football",2
+"Climax reversal",0
+"Deutsche Bank France AI",1
+"Amputee football",2
+"Terminal reversal",0
+"Goldman Sachs France AI",1
+"Deaf football cup",2
+"Launching pad",0
+"Morgan Stanley France AI",1
+"Blind football cup",2
+"Boiler room pattern",0
+"JPMorgan France AI",1
+"Cerebral palsy football",2
+"Falling wedge",0
+"Citi France AI",1
+"Freestyle football cup",2
+"Rising wedge",0
+"UBS France AI",1
+"Street football cup",2
+"Ascending triangle",0
+"Credit Suisse France AI",1
+"Swamp soccer cup",2
+"Descending triangle",0
+"Bank of America France AI",1
+"Zorb football cup",2
+"Symmetrical triangle",0
+"Wells Fargo France AI",1
+"Paralympic football",2
+"Expanding triangle",0
+"RBC France AI",1
+"Unicycle basketball",2
+"Contracting triangle",0
+"TD Bank France AI",1
+"Wheelchair basketball",2
+"Pennant pattern",0
+"Scotiabank France AI",1
+"Deaf basketball cup",2
+"Flag pattern",0
+"BMO France AI",1
+"3x3 basketball cup",2
+"Wedge pattern",0
+"CIBC France AI",1
+"Slamball cup",2
+"Rectangle pattern",0
+"National Bank Canada AI",1
+"Street basketball",2
+"Channel pattern",0
+"Laurentian Bank AI",1
+"Netball cup",2
+"Gap pattern",0
+"Canadian Western AI",1
+"Korfball cup",2
+"Island cluster",0
+"Equitable Bank AI",1
+"Handball cup",2
+"Price gap",0
+"Vancity AI",1
+"Floorball cup",2
+"Common gap",0
+"ATB Financial AI",1
+"Bandy cup",2
+"Breakaway gap",0
+"Servus Credit Union AI",1
+"Ringette cup",2
+"Runaway gap",0
+"Coast Capital AI",1
+"Rink bandy cup",2
+"Exhaustion gap",0
+"Alterna Bank AI",1
+"Ice stock sport",2
+"Measuring gap",0
+"Manulife Bank AI",1
+"Unicycle hockey",2
+"Midpoint gap",0
+"Sunlife Financial AI",1
+"Quadball cup",2
+"Opening gap",0
+"Great West Life AI",1
+"Bossaball cup",2
+"Closing gap",0
+"IA Financial Group AI",1
+"Footbag net cup",2
+"Continuation gap",0
+"Empire Life AI",1
+"Fistball cup",2
+"Reversal gap",0
+"Wawanesa Life AI",1
+"Korfball cup",2
+"Session gap",0
+"Canada Life AI",1
+"Racquetball cup",2
+"Tick gap",0
+"RGA Canada AI",1
+"Paddle tennis cup",2
+"Chart gap",0
+"RBC Insurance AI",1
+"Padel world cup",2
+"Time gap",0
+"TD Insurance AI",1
+"Racketlon cup",2
+"Price gap fill",0
+"Scotia Insurance AI",1
+"Rush padel cup",2
+"Partial fill",0
+"BMO Insurance AI",1
+"Platform tennis cup",2
+"Full fill",0
+"CIBC Insurance AI",1
+"Wallyball cup",2
+"Gap support",0
+"National Bank Insurance AI",1
+"Biribol cup",2
+"Gap resistance",0
+"Desjardins Insurance AI",1
+"Indoor soccer cup",2
+"Gap zone",0
+"SSQ Insurance AI",1
+"Powerchair football",2
+"Gap island",0
+"La Capitale AI",1
+"Amputee football",2
+"Window fill",0
+"Promutuel AI",1
+"Deaf football cup",2
+"Breakaway fill",0
+"Belairdirect AI",1
+"Blind football cup",2
+"Runaway fill",0
+"Intact Insurance AI",1
+"Cerebral palsy football",2
+"Exhaustion fill",0
+"Aviva Canada AI",1
+"Freestyle football cup",2
+"Gap reversal fill",0
+"Allstate Canada AI",1
+"Street football cup",2
+"Partial fill pattern",0
+"Travelers Canada AI",1
+"Swamp soccer cup",2
+"Full fill pattern",0
+"Chubb Canada AI",1
+"Zorb football cup",2
+"Gap compression",0
+"AIG Canada AI",1
+"Paralympic football",2
+"Gap expansion",0
+"Zurich Canada AI",1
+"Unicycle basketball",2
+"Gap drift",0
+"Munich Re Canada AI",1
+"Wheelchair basketball",2
+"Gap creep",0
+"Swiss Re Canada AI",1
+"Deaf basketball cup",2
+"Gap slip",0
+"Hannover Re Canada AI",1
+"3x3 basketball cup",2
+"Gap slide",0
+"Partner Re Canada AI",1
+"Slamball cup",2
+"Gap jump",0
+"Everest Re Canada AI",1
+"Street basketball",2
+"Gap leap",0
+"Renaissance Re Canada AI",1
+"Netball cup",2
+"Gap bounce",0
+"Aspen Re Canada AI",1
+"Korfball cup",2
+"Gap roll",0
+"Validus Re Canada AI",1
+"Handball cup",2
+"Gap skid",0
+"Catco Re Canada AI",1
+"Floorball cup",2
+"Gap stall",0
+"Watford Re Canada AI",1
+"Bandy cup",2
+"Gap suspension",0
+"Arch Re Canada AI",1
+"Ringette cup",2
+"Gap explosion",0
+"Endurance Re Canada AI",1
+"Rink bandy cup",2
+"Gap implosion",0
+"Transatlantic Re Canada AI",1
+"Ice stock sport",2
+"Gap fragmentation",0
+"SCOR Canada AI",1
+"Unicycle hockey",2
+"Gag fusion",0
+"AXA XL Canada AI",1
+"Quadball cup",2
+"Gap fission",0
+"QBE Canada AI",1
+"Bossaball cup",2
+"Gap isomer",0
+"Markel Canada AI",1
+"Footbag net cup",2
+"Gap polymorphism",0
+"Hiscox Canada AI",1
+"Fistball cup",2
+"Gap alloy",0
+"Beazley Canada AI",1
+"Korfball cup",2
+"Gap composite",0
+"Brit Canada AI",1
+"Racquetball cup",2
+"Gap mixture",0
+"Lancashire Canada AI",1
+"Paddle tennis cup",2
+"Gap solution",0
+"RSA Canada AI",1
+"Padel world cup",2
+"Gap suspension mixture",0
+"Ageas Canada AI",1
+"Racketlon cup",2
+"Gap colloid",0
+"Mapfre Canada AI",1
+"Rush padel cup",2
+"Gap foam",0
+"Liberty Mutual Canada AI",1
+"Platform tennis cup",2
+"Gap aerosol",0
+"Nationwide Canada AI",1
+"Wallyball cup",2
+"Gap emulsion",0
+"Farmers Canada AI",1
+"Biribol cup",2
+"Gap gel",0
+"American Family Canada AI",1
+"Indoor soccer cup",2
+"Gap sol",0
+"Erie Canada AI",1
+"Powerchair football",2
+"Gap paste",0
+"Auto Owners Canada AI",1
+"Amputee football",2
+"Gap tablet",0
+"State Auto Canada AI",1
+"Deaf football cup",2
+"Gap powder",0
+"Grinnell Mutual Canada AI",1
+"Blind football cup",2
+"Gap flake",0
+"Penn National Canada AI",1
+"Cerebral palsy football",2
+"Gap granule",0
+"Selective Canada AI",1
+"Freestyle football cup",2
+"Gag pellet",0
+"Cincinnati Financial AI",1
+"Street football cup",2
+"Gap bead",0
+"Progressive Canada AI",1
+"Swamp soccer cup",2
+"Gap pebble",0
+"Geico Canada AI",1
+"Zorb football cup",2
+"Gap rock",0
+"USAA Canada AI",1
+"Paralympic football",2
+"Gap boulder",0
+"Amica Canada AI",1
+"Unicycle basketball",2
+"Gap mountain",0
+"Metromile Canada AI",1
+"Wheelchair basketball",2
+"Gap valley",0
+"Root Canada AI",1
+"Deaf basketball cup",2
+"Gap lake",0
+"Lemonade Canada AI",1
+"3x3 basketball cup",2
+"Gap ocean",0
+"Hippo Canada AI",1
+"Slamball cup",2
+"Gap desert",0
+"Kin Canada AI",1
+"Street basketball",2
+"Gap forest",0
+"PolicyGenius Canada AI",1
+"Netball cup",2
+"Gap jungle",0
+"CoverWallet Canada AI",1
+"Korfball cup",2
+"Gap tundra",0
+"Next Insurance Canada AI",1
+"Handball cup",2
+"Gap taiga",0
+"Embroker Canada AI",1
+"Floorball cup",2
+"Gap prairie",0
+"Inshur Canada AI",1
+"Bandy cup",2
+"Gap savanna",0
+"Zego Canada AI",1
+"Ringette cup",2
+"Gap steppe",0
+"Slice Canada AI",1
+"Rink bandy cup",2
+"Gap chaparral",0
+"Cuvva Canada AI",1
+"Ice stock sport",2
+"Gap rainforest",0
+"Bolttech Canada AI",1
+"Unicycle hockey",2
+"Gap mangrove",0
+"Wefox Canada AI",1
+"Quadball cup",2
+"Gap swamp",0
+"Luko Canada AI",1
+"Bossaball cup",2
+"Gap marsh",0
+"Alan Canada AI",1
+"Footbag net cup",2
+"Gap bog",0
+"GetSafe Canada AI",1
+"Fistball cup",2
+"Gap fen",0
+"Friday Canada AI",1
+"Korfball cup",2
+"Gap moor",0
+"Neosurance Canada AI",1
+"Racquetball cup",2
+"Gap heath",0
+"Simplesurance Canada AI",1
+"Paddle tennis cup",2
+"Gap shrubland",0
+"Trov Canada AI",1
+"Padel world cup",2
+"Gap woodland",0
+"Sure Canada AI",1
+"Racketlon cup",2
+"Gap grove",0
+"Bought By Many AI",1
+"Rush padel cup",2
+"Gap orchard",0
+"Guardhog Canada AI",1
+"Platform tennis cup",2
+"Gap vineyard",0
+"Acheel Canada AI",1
+"Wallyball cup",2
+"Gap plantation",0
+"Stable Canada AI",1
+"Biribol cup",2
+"Gap garden",0
+"SmartHealth Canada AI",1
+"Indoor soccer cup",2
+"Gap park",0
+"Qover Canada AI",1
+"Powerchair football",2
+"Gap square",0
+"Knip Canada AI",1
+"Amputee football",2
+"Gap plaza",0
+"Clark Germany AI",1
+"Deaf football cup",2
+"Gap terrace",0
+"Wefox Germany AI",1
+"Blind football cup",2
+"Gap courtyard",0
+"Friendsurance AI",1
+"Cerebral palsy football",2
+"Gap atrium",0
+"Ottonova AI",1
+"Freestyle football cup",2
+"Gap lobby",0
+"Mokester AI",1
+"Street football cup",2
+"Gap corridor",0
+"Adam Riese AI",1
+"Swamp soccer cup",2
+"Gap hallway",0
+"Getsafe Germany AI",1
+"Zorb football cup",2
+"Gap stairwell",0
+"Element Germany AI",1
+"Paralympic football",2
+"Gap elevator",0
+"Varme AI",1
+"Unicycle basketball",2
+"Gap escalator",0
+"Panther Germany AI",1
+"Wheelchair basketball",2
+"Gap ramp",0
+"OneClaim AI",1
+"Deaf basketball cup",2
+"Gap gangway",0
+"Fairr AI",1
+"3x3 basketball cup",2
+"Gap bridge",0
+"Riester AI",1
+"Slamball cup",2
+"Gap tunnel",0
+"Bavaria AI",1
+"Street basketball",2
+"Gap viaduct",0
+"Cosmosdirekt AI",1
+"Netball cup",2
+"Gap overpass",0
+"HUK24 AI",1
+"Korfball cup",2
+"Gap underpass",0
+"Allianz Direct AI",1
+"Handball cup",2
+"Gap roundabout",0
+"AXA Germany AI",1
+"Floorball cup",2
+"Gap intersection",0
+"Generali Germany AI",1
+"Bandy cup",2
+"Gap crossroad",0
+"Zurich Germany AI",1
+"Ringette cup",2
+"Gap junction",0
+"R+V Versicherung AI",1
+"Rink bandy cup",2
+"Gap interchange",0
+"DEVK AI",1
+"Ice stock sport",2
+"Gap flyover",0
+"LVM Versicherung AI",1
+"Unicycle hockey",2
+"Gap underbridge",0
+"Signal Iduna AI",1
+"Quadball cup",2
+"Gap aqueduct",0
+"WGV AI",1
+"Bossaball cup",2
+"Gap causeway",0
+"Barmenia AI",1
+"Footbag net cup",2
+"Gap dike",0
+"HanseMerkur AI",1
+"Fistball cup",2
+"Gap levee",0
+"Concordia AI",1
+"Korfball cup",2
+"Gap dam",0
+"Debeka AI",1
+"Racquetball cup",2
+"Gap sluice",0
+"UKV AI",1
+"Paddle tennis cup",2
+"Gap weir",0
+"Gothaer AI",1
+"Padel world cup",2
+"Gap lock",0
+"Provinzial AI",1
+"Racketlon cup",2
+"Gap canal",0
+"VGH AI",1
+"Rush padel cup",2
+"Gap waterway",0
+"VHV AI",1
+"Platform tennis cup",2
+"Gap river",0
+"OVAG AI",1
+"Wallyball cup",2
+"Gap stream",0
+"SV Sparkasse AI",1
+"Biribol cup",2
+"Gap creek",0
+"LKH AI",1
+"Indoor soccer cup",2
+"Gap brook",0
+"Niederösterreich AI",1
+"Powerchair football",2
+"Gap tributary",0
+"Oberösterreich AI",1
+"Amputee football",2
+"Gap delta",0
+"Steiermark AI",1
+"Deaf football cup",2
+"Gap estuary",0
+"Tirol AI",1
+"Blind football cup",2
+"Gap fjord",0
+"Kärnten AI",1
+"Cerebral palsy football",2
+"Gap bay",0
+"Salzburg AI",1
+"Freestyle football cup",2
+"Gap gulf",0
+"Vorarlberg AI",1
+"Street football cup",2
+"Gap strait",0
+"Burgenland AI",1
+"Swamp soccer cup",2
+"Gap channel",0
+"Wien AI",1
+"Zorb football cup",2
+"Gap sound",0
